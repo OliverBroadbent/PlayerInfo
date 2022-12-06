@@ -1,7 +1,7 @@
 {
   "link" : "https://github.com/OliverBroadbent/PlayerInfo",
   "name" : "Player Info",
-  "version" : "1.0.1",
+  "version" : "1.0.2",
   "author" : "Broadbent",
   "description" : "Provides tag descriptions for players.",
   "editions" : ["JAVA", "BEDROCK", "CONSOLE"],

@@ -1,4 +1,4 @@
-# EntityInfo
+# PlayerInfo
 
 Adds descriptions for player tags to help make edits quicker and more accurate. This extension is designed to work with every Minecraft update and version. Enjoy :)
 
